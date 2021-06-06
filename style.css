@@ -1,0 +1,21 @@
+body
+{
+background-size:cover;
+}
+.heading{
+      text-align: left;
+    width: 100%;
+}
+.heading button{
+    float: right;
+    border: 1px solid grey;
+}
+.heading h3{
+    display: inline;
+}
+canvas 
+  {
+      border:3px solid skyblue;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px palegreen;
+  }
